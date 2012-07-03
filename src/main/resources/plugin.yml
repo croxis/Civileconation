@@ -1,0 +1,9 @@
+author: croxis
+database: true
+description: Economy system for civilmineation
+generator: http://dinnerbone.com/minecraft/tools/pluginator/
+main: me.croxis.plugins.civileconation.Civileconation
+name: Civileconation
+startup: postworld
+version: '1.0'
+softdepend: [Civilmineation]
